@@ -1,8 +1,3 @@
-import { Injectable } from '@angular/core';
-
-@Injectable({
-  providedIn: 'root'
-})
 export class AngularNgLocalstorageService {
   // https://medium.com/@faxemaxee/building-and-publishing-angular-libraries-using-angular-cli-140057d21101
   public localStorage: any;
